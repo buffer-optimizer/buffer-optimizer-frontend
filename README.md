@@ -16,6 +16,33 @@ Buffer Content Optimizer is a comprehensive social media analytics and optimizat
 - **🌙 Theme Support** - Light/Dark/System theme modes with persistence
 - **📱 Responsive Design** - Mobile-first design that works on all devices
 
+## 📸 Screenshots
+
+### Dashboard Overview
+![Dashboard](screenshots/dashboard.png)
+*Main dashboard showing real-time analytics overview, key performance metrics, and platform performance breakdown*
+
+### Analytics Deep Dive
+![Analytics](screenshots/analytics.png)
+*Detailed analytics page with multi-platform comparison, engagement trends, and performance metrics*
+
+### Optimal Timing Analysis
+![Optimal Times](screenshots/optimal-timing.png)
+*AI-powered optimal posting times with engagement heatmaps and day-of-week analysis*
+
+### Plugin Management System
+![Plugins](screenshots/plugins-system.png)
+*Extensible plugin architecture with management interface and execution results*
+
+### Data Visualization Components
+![Charts and Graphs](screenshots/v1.png)
+![Charts and Graphs](screenshots/v2.png)
+![Charts and Graphs](screenshots/v3.png)
+![Charts and Graphs](screenshots/v4.png)
+*Interactive charts, heatmaps, and data visualization components using Recharts*
+
+---
+
 ## 🏗️ Architecture
 
 ### Frontend Stack
@@ -198,8 +225,8 @@ docker run -p 3000:3000 buffer-optimizer-frontend
 ```typescript
 // All API requests require authentication
 headers: {
-  'Authorization': 'Bearer YOUR_TOKEN',
-  'Content-Type': 'application/json'
+   'Authorization': 'Bearer YOUR_TOKEN',
+           'Content-Type': 'application/json'
 }
 ```
 
