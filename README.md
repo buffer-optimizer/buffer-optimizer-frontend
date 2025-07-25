@@ -106,7 +106,6 @@ NEXT_PUBLIC_API_URL=http://localhost:8085/api/v1
 - Confidence scoring
 
 ### 🧩 Plugins
-- 12+ functional plugins
 - Real execution simulation
 - Plugin management interface
 - Result visualization
