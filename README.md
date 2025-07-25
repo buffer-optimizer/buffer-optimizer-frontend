@@ -18,6 +18,9 @@ Buffer Content Optimizer is a comprehensive social media analytics and optimizat
 
 ## 📸 Screenshots
 
+### Optimization Data Flow
+![Optimization Data Flow](screenshots/flow.png)
+
 ### Dashboard Overview
 ![Dashboard](screenshots/dashboard.png)
 *Main dashboard showing real-time analytics overview, key performance metrics, and platform performance breakdown*
