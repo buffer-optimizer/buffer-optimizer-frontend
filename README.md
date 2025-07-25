@@ -189,8 +189,8 @@ npm run export
 
 ### Docker Deployment
 ```bash
-docker build -t buffer-optimizer .
-docker run -p 3000:3000 buffer-optimizer
+docker build -t buffer-optimizer-frontend .
+docker run -p 3000:3000 buffer-optimizer-frontend
 ```
 
 ## 🔧 API Documentation
